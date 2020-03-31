@@ -7,14 +7,15 @@ Em projetos modernos é cada vez mais comum o uso de arquiteturas baseadas em se
 ## Requisitos
 
 ### Backend - API
-- [] criar endpoints para serem usados pelo frontend da aplicação
-- [] criar um endpoint que será usado para gravar os logs de erro em um banco de dados relacional
+- [ ] criar endpoints para serem usados pelo frontend da aplicação
+- [ ] criar um endpoint que será usado para gravar os logs de erro em um banco de dados relacional
 a API deve ser segura, permitindo acesso apenas com um token de autenticação válido
+
 ### Frontend
-- [] deve implementar as funcionalidades apresentadas nos wireframes
-- [] deve ser acessada adequadamente tanto por navegadores desktop quanto mobile
-- [] deve consumir a API do produto
-- [] desenvolvida na forma de uma Single Page Application
+- [ ] deve implementar as funcionalidades apresentadas nos wireframes
+- [ ] deve ser acessada adequadamente tanto por navegadores desktop quanto mobile
+- [ ] deve consumir a API do produto
+- [ ] desenvolvida na forma de uma Single Page Application
 
 ## Tecnologias utilizadas
 
